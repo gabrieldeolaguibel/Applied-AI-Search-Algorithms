@@ -3,9 +3,6 @@
 ## Description
 This repository contains an assignment completed for the university course "AI: Reasoning & Problem Solving". The purpose of the assignment is to demonstrate proficiency in implementing and understanding various AI algorithms and strategies, particularly in the context of puzzles and labyrinths.
 
-## Setup
-Before running the notebook, ensure you update the **STUDENT_TOKEN** with the format `FIRSTNAME-SURNAME(S)`. This token helps identify your submissions and interactions with the server.
-
 ## Implementation Details
 
 ### Game Implementation

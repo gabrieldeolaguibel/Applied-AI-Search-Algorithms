@@ -1,4 +1,4 @@
-# AI: Reasoning & Problem Solving Assignment 1
+# AI: Reasoning & Problem Solving - Application of search Alorithms
 
 ## Description
 This repository contains an assignment completed for the university course "AI: Reasoning & Problem Solving". The purpose of the assignment is to demonstrate proficiency in implementing and understanding various AI algorithms and strategies, particularly in the context of puzzles and labyrinths.
